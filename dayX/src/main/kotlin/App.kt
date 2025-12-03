@@ -1,4 +1,4 @@
-package nl.jolanrensen.aoc25.day1
+package nl.jolanrensen.aoc25.dayX
 
 import nl.jolanrensen.aoc25.utils.Printer
 

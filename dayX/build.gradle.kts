@@ -12,5 +12,5 @@ dependencies {
 }
 
 application {
-    mainClass = "nl.jolanrensen.aoc25.day1.AppKt"
+    mainClass = "nl.jolanrensen.aoc25.dayX.AppKt"
 }
