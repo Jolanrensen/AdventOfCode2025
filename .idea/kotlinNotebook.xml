@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="KotlinNotebookOptionsProvider">
+    <option name="extraEnvironmentVariables">
+      <map>
+        <entry key="AOC_TOKEN" value="53616c7465645f5ffb7217a27f401463b263b494b2444ac1fbf68208574abf8d363087e27b26abbcc97a56c30fde31f0468f186ec4a9f2dd32289e2f604da012" />
+      </map>
+    </option>
     <option name="heapMaxLimitInMib" value="5000" />
-    <option name="kernelVersion" value="0.17.0-750" />
+    <option name="kernelVersion" value="0.17.0-752" />
   </component>
 </project>
