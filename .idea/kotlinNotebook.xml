@@ -7,6 +7,6 @@
       </map>
     </option>
     <option name="heapMaxLimitInMib" value="5000" />
-    <option name="kernelVersion" value="0.17.0-752" />
+    <option name="kernelVersion" value="0.17.0-754" />
   </component>
 </project>
