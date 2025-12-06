@@ -20,6 +20,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/day6" />
             <option value="$PROJECT_DIR$/dayX" />
             <option value="$PROJECT_DIR$/utils" />
           </set>
